@@ -1,0 +1,7 @@
+name: Testing
+main: io.mewsub.testing.Testing
+version: 1.0
+api-version: 1.16
+commands:
+  testing:
+    description: Experimental stuff
