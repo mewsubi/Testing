@@ -21,8 +21,8 @@ import org.bukkit.event.EventHandler;
 
 import org.bukkit.event.entity.EntityToggleSwimEvent;
 
-import net.minecraft.server.v1_16_R1.PacketPlayOutAnimation;
-import org.bukkit.craftbukkit.v1_16_R1.entity.CraftPlayer;
+import net.minecraft.server.v1_16_R3.PacketPlayOutAnimation;
+import org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer;
 
 public class EntityToggleSwim implements Listener {
     

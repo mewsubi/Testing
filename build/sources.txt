@@ -1,0 +1,8 @@
+io\mewsub\testing\Game.class
+io\mewsub\testing\Renderer.class
+io\mewsub\testing\Testing.class
+io\mewsub\testing\commands\TestingCommand.class
+io\mewsub\testing\listeners\EntityToggleSwim.class
+io\mewsub\testing\listeners\HangingBreak.class
+io\mewsub\testing\listeners\PlayerDropItem.class
+io\mewsub\testing\listeners\PlayerInteract.class
